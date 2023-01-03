@@ -25,10 +25,6 @@ namespace HideChatPlugin
             this.FrameworkManager = framework;
 
             this.chatNode = new BaseNode("ChatLog", this.GuiManager);
-            unsafe
-            {
-                this.chatNode.GetRootNode()->ToggleVisibility(true);
-            }
             this.FrameworkManager.Update += OnFramework;
         }
 
