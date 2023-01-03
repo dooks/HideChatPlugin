@@ -1,0 +1,13 @@
+{
+  "Author": "Vodka Paws/@dookssh",
+  "Name": "HideChat",
+  "Punchline": "Only show chat when entering in text.",
+  "Description": "Hides the chat window by default, and only shows when inputting text.",
+  "InternalName": "hideChatPlugin",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "hide",
+    "chat",
+    "plugin"
+  ]
+}
